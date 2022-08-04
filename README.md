@@ -1,3 +1,0 @@
-# Grandholme's Finest skill calculator
-
-Created this talent calculator by forking the Borderlands 2 talent calculator created by Joshua Seigler (https://github.com/seigler/bl2skills.com). This calculator is a set of homebrewed talents for my DnD game for my players from 21-30. It's not really usable outside of this specific context, but feel free to check it out and enjoy parsing my spaghetti code. 
